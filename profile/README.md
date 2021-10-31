@@ -2,7 +2,7 @@
 
 <center>
 
-![](https://raw.githubusercontent.com/multi-py/.github/main/profile/images/hydra.png)
+![](https://raw.githubusercontent.com/multi-py/.github/main/profile/images/hydra-small.png)
 
 </center>
 
