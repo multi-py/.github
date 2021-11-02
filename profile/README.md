@@ -13,7 +13,7 @@
 This organization builds Python containers that support multiple architectures. While most python packages support speedy installs with prebuilt wheels, many do not yet build wheels for ARM based architectures- and even fewer are built with musl libc, the C Library used in Alpine. This leaves developers on those systems faced with a choice- use a potentially buggy emulation layer for their containers or wait 20+ minutes while their containers compile those packages. The containers in this organization provide another option.
 
 
-<div width="200>
+<div width="200">
 
 <h3 align="center">Multi Architecture Builds</h3>
 
