@@ -1,6 +1,14 @@
 <h2 align="center">Multi-Py: MultiArchitecture Python Containers</h2>
 
-![](https://raw.githubusercontent.com/multi-py/.github/main/profile/images/hydra-social.png)
+<div align="center">
+<img width="50" src="https://raw.githubusercontent.com/multi-py/.github/main/profile/images/hydra-small.png">
+<img width="50" src="https://raw.githubusercontent.com/multi-py/.github/main/profile/images/hydra-small.png">
+<img width="50" src="https://raw.githubusercontent.com/multi-py/.github/main/profile/images/hydra-small.png">
+<img width="50" src="https://raw.githubusercontent.com/multi-py/.github/main/profile/images/hydra-small.png">
+<img width="50" src="https://raw.githubusercontent.com/multi-py/.github/main/profile/images/hydra-small.png">
+<img width="50" src="https://raw.githubusercontent.com/multi-py/.github/main/profile/images/hydra-small.png">
+<img width="50" src="https://raw.githubusercontent.com/multi-py/.github/main/profile/images/hydra-small.png">
+</div>
 
 This organization builds Python containers that support multiple architectures. While most python packages support speedy installs with prebuilt wheels, many do not yet build wheels for ARM based architectures- and even fewer are built with musl libc, the C Library used in Alpine. This leaves developers on those systems faced with a choice- use a potentially buggy emulation layer for their containers or wait 20+ minutes while their containers compile those packages. The containers in this organization provide another option.
 
