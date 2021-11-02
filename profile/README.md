@@ -13,8 +13,6 @@
 This organization builds Python containers that support multiple architectures. While most python packages support speedy installs with prebuilt wheels, many do not yet build wheels for ARM based architectures- and even fewer are built with musl libc, the C Library used in Alpine. This leaves developers on those systems faced with a choice- use a potentially buggy emulation layer for their containers or wait 20+ minutes while their containers compile those packages. The containers in this organization provide another option.
 
 
-<div width="200">
-
 <h3 align="center">Multi Architecture Builds</h3>
 
 All containers in this organization support `amd64` and `arm64`, and most of them also support `arm v7`.
@@ -37,5 +35,3 @@ Within 30 minutes of a new release to the upstream project on PyPI builds will k
 <h3 align="center">Regular Updates</h3>
 
 Containers are rebuilt weekly in order to take on the security patches from upstream containers.
-
-</div>
