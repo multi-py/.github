@@ -3,6 +3,6 @@ contact_links:
   - name: New Image Requests
     url: https://github.com/multi-py/community/discussions/categories/ideas-and-requests
     about: Request new images here!
-  - name: Sponsor the Maintainer!
+  - name: Sponsor the Maintainer
     url: https://github.com/sponsors/tedivm
     about: Your support is appreciated!
