@@ -1,7 +1,6 @@
 ---
 name: Feature Request
-about: Report a bug on a container.
-title: ''
+about: Request a feature for this image.
 labels: enhancement
 ---
 

@@ -1,7 +1,6 @@
 ---
 name: Bug Report
-about: Report a bug on a container.
-title: ''
+about: Report a bug in an image.
 labels: bug
 ---
 <!--
