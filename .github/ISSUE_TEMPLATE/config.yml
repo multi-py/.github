@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: New
+    url: https://github.com/multi-py/community/discussions/categories/ideas-and-requests
+    about: Request new containers here!
